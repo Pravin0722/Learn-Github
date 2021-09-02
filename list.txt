@@ -2,10 +2,8 @@ Welcome
 
 Pizza
 Burger
-Coke
-Pasta
 Maggie
 
 
+
 Thank you.
-Done with the version1.
