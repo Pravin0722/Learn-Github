@@ -3,10 +3,18 @@ Welcome
 Pizza
 Burger
 
-
 Maggie
 
 
 
 
 Thank you.
+
+
+Coke
+Pasta
+Maggie
+
+
+Thank you.
+Done with the version1.
